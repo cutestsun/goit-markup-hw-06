@@ -704,10 +704,6 @@ header .container {
   /* outline: 1px solid tomato; */
 }
 
-.footer-form-field {
-  outline: 10px solid teal;
-}
-
 .footer-input-button-wrapper {
   display: flex;
   align-items: center;
